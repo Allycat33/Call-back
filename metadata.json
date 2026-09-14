@@ -1,0 +1,6 @@
+{
+  "name": "CallBack AI",
+  "description": "AI receptionist for local service businesses that captures missed calls, qualifies leads, and books appointments automatically.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
